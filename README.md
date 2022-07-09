@@ -1,2 +1,1 @@
-# Practice
-Practice1Started
+# Module 1. Base JavaScript
