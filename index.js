@@ -1,9 +1,15 @@
-// console.log("Timer begins");
-// alert("5");
-// alert("4");
-// alert("3");
-// alert("2");
-// alert("1");
-// alert("0");
-console.log("Timer begins", alert("5"), alert("4"), alert("3"), alert("2"), alert("1"), alert("0"));
-consoele.log("I didn't get the task");
+//"JavaScript-код с созданием пременных"
+/*
+Author
+ArtemSmirnov
+*/
+const myName = "Artem";
+const mySurname = "Smirnov";
+let myFavoriteDrink = "Esco";
+let myFavoriteAnimal = "Leopard";
+let myFavoriteProgrammingLanguage = "JS";
+console.log(myName);
+console.log(mySurname);
+console.log(myFavoriteDrink);
+console.log(myFavoriteAnimal);
+console.log(myFavoriteProgrammingLanguage);
